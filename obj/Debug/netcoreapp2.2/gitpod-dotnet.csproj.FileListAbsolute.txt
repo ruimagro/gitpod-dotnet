@@ -1,0 +1,11 @@
+/workspace/gitpod-dotnet/bin/Debug/netcoreapp2.2/gitpod-dotnet.deps.json
+/workspace/gitpod-dotnet/bin/Debug/netcoreapp2.2/gitpod-dotnet.runtimeconfig.json
+/workspace/gitpod-dotnet/bin/Debug/netcoreapp2.2/gitpod-dotnet.runtimeconfig.dev.json
+/workspace/gitpod-dotnet/bin/Debug/netcoreapp2.2/gitpod-dotnet.dll
+/workspace/gitpod-dotnet/bin/Debug/netcoreapp2.2/gitpod-dotnet.pdb
+/workspace/gitpod-dotnet/obj/Debug/netcoreapp2.2/gitpod-dotnet.csprojAssemblyReference.cache
+/workspace/gitpod-dotnet/obj/Debug/netcoreapp2.2/gitpod-dotnet.csproj.CoreCompileInputs.cache
+/workspace/gitpod-dotnet/obj/Debug/netcoreapp2.2/gitpod-dotnet.AssemblyInfoInputs.cache
+/workspace/gitpod-dotnet/obj/Debug/netcoreapp2.2/gitpod-dotnet.AssemblyInfo.cs
+/workspace/gitpod-dotnet/obj/Debug/netcoreapp2.2/gitpod-dotnet.dll
+/workspace/gitpod-dotnet/obj/Debug/netcoreapp2.2/gitpod-dotnet.pdb
